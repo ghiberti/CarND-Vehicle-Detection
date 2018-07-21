@@ -13,12 +13,11 @@ The goals / steps of this project are the following:
 
 Contents:
 
-*/output_video - video of vehicle detection result for "project_video" and "test_video"
-*/output_images - contains images used in writeup
-*/test_images - images provided for pipeline testing for project
+* /output_video - video of vehicle detection result for "project_video" and "test_video"
+* /output_images - contains images used in writeup
+* /test_images - images provided for pipeline testing for project
 * Project_Notebook.ipnyb - Jupyter notebook that contains steps taken towards completion of the project including the pipeline
 * lanedetection.py - pipeline for Lane Detection
 * project_writeup.md - contains project pipeline summary and reflections on the project outcome
 * save.pkl - pickle file containing SVM classifier and feature extraction parameter values
 * var.pkl - pickle file containing camera calibration calculation for Lane Detection pipeline
-
